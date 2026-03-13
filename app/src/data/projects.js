@@ -5,12 +5,12 @@ export const projects = [
     category: "Concurso Internacional",
     description: "Proyecto presentado en la Bienal Iberoamericana de Arquitectura y Urbanismo 2019. Módulo tecnológico con diseño innovador y sostenible.",
     technologies: ["Arquitectura", "Diseño Modular", "Urbanismo"],
-    image: "/images/projects/BIAU 2019 - TECMODULE/DAY_1.jpg",
+    image: "/images/projects/BIAU 2019 - TECMODULE/DAY_2.jpg",
     gallery: [
-      "/images/projects/BIAU 2019 - TECMODULE/DAY_1.jpg",
       "/images/projects/BIAU 2019 - TECMODULE/DAY_2.jpg",
+      "/images/projects/BIAU 2019 - TECMODULE/DAY_3.jpg",
       "/images/projects/BIAU 2019 - TECMODULE/NIGHT3_1.jpg",
-      "/images/projects/BIAU 2019 - TECMODULE/NIGHT3_2.jpg",
+      "/images/projects/BIAU 2019 - TECMODULE/NIGHT3_4.jpg",
     ],
     link: "#"
   },
@@ -89,6 +89,7 @@ export const projects = [
       "/images/projects/LINEA DHOME/CRUZ DEL DEFENSOR/1-DORM-01.png",
       "/images/projects/LINEA DHOME/CRUZ DEL DEFENSOR/1-DORM-03.png",
       "/images/projects/LINEA DHOME/CRUZ DEL DEFENSOR/DHOME-1DORM-32M2-V2.png",
+      "/images/projects/LINEA DHOME/CRUZ DEL DEFENSOR/00.png",
     ],
     link: "#"
   },
@@ -158,6 +159,7 @@ export const projects = [
       "/images/projects/LINEA MORADA/MONTELINDO/MONTELINDO-2.png",
       "/images/projects/LINEA MORADA/MONTELINDO/MONTELINDO-3.png",
       "/images/projects/LINEA MORADA/AREGUA/RENDER CONDOMINIO FRONTAL.png",
+      "/images/projects/LINEA MORADA/AREGUA/RENDER ACCESO CONDOMINIO.png",
       "/images/projects/LINEA MORADA/CAPIATA/C_CONJUNTO.png",
     ],
     link: "#"
@@ -172,7 +174,7 @@ export const projects = [
     gallery: [
       "/images/projects/LINEA SAN CLEMENTE/NORTE/SCN-FACHADA-AGOSTO-2025.08.08.png",
       "/images/projects/LINEA SAN CLEMENTE/NORTE/1-DORMITORIO.png",
-      "/images/projects/LINEA SAN CLEMENTE/NORTE/2-DORMITORIOS.png",
+      "/images/projects/LINEA SAN CLEMENTE/NORTE/3-DORMITORIOS.png",
       "/images/projects/LINEA SAN CLEMENTE/NORTE/MONOAMBIENTE.png",
     ],
     link: "#"
@@ -228,7 +230,7 @@ export const projects = [
     category: "Urbanismo",
     description: "Plan maestro de desarrollo urbano para Itapytá Punta. Planificación integral del territorio con visión sustentable.",
     technologies: ["Urbanismo", "Planificación Territorial", "Masterplan"],
-    image: "/images/projects/BIAU 2019 - TECMODULE/DAY_2.jpg",
+    image: "/images/projects/BIAU 2019 - TECMODULE/DAY_3.jpg",
     gallery: [],
     link: "#"
   },
