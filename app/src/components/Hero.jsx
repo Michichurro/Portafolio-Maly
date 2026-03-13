@@ -61,15 +61,12 @@ const Hero = () => {
                             maxWidth: '500px'
                         }}
                     >
-                        Desarrollo estratégico para <br />
-                        proyectos inmobiliarios.
+                        Desarrollo estratégico para proyectos inmobiliarios.
                     </motion.h2>
 
                     {/* Description / Value Proposition */}
                     <motion.p className="hero-description" variants={item} style={{ margin: '0 0 40px 0', maxWidth: '400px', color: '#4a4a4a', fontWeight: '500' }}>
-                        Arquitecto con 8 años de experiencia<br />
-                        diseñando espacios que combinan<br />
-                        visión, funcionalidad y valor.
+                        Arquitecto con 8 años de experiencia diseñando espacios que combinan visión, funcionalidad y valor.
                     </motion.p>
                 </motion.div>
             </div>

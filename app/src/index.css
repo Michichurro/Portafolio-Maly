@@ -1052,18 +1052,18 @@ button {
     /* Dock mobile */
     .dock {
         bottom: 24px;
-        left: 20px;
-        right: 20px;
+        left: 10px;
+        right: 10px;
         transform: none;
         justify-content: space-between;
         border-radius: var(--radius-full);
-        padding: 12px 20px;
+        padding: 12px 14px;
     }
 
     .dock-links {
         display: flex;
         flex-direction: row;
-        gap: 12px;
+        gap: 6px;
         /* Restablecer visibilidad para que aparezca normal como en PC */
         position: static;
         background: transparent;
@@ -1083,9 +1083,9 @@ button {
     }
 
     .dock-links a {
-        font-size: 0.85rem;
+        font-size: 0.75rem;
         font-weight: 500;
-        letter-spacing: 0px;
+        letter-spacing: -0.2px;
     }
 
     .dock-divider {
@@ -1117,7 +1117,7 @@ button {
     }
 
     .hero-background img {
-        object-position: 85% 15%;
+        object-position: 65% 15%;
     }
 
     .hero-content {
