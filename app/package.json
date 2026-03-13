@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "build": "vite build",
-    "vercel-build": "bash vercel-build.sh",
+    "build": "bash vercel-build.sh",
+    "vite-build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
