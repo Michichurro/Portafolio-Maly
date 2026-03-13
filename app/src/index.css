@@ -1051,11 +1051,13 @@ button {
 
     /* Dock mobile */
     .dock {
-        bottom: 16px;
-        left: 16px;
-        right: 16px;
+        bottom: 24px;
+        left: 20px;
+        right: 20px;
         transform: none;
         justify-content: space-between;
+        border-radius: var(--radius-full);
+        padding: 12px 20px;
     }
 
     .dock-links {
@@ -1078,9 +1080,14 @@ button {
         visibility: visible;
     }
 
+    .dock-logo {
+        font-size: 1.4rem;
+    }
+
     .dock-links a {
         font-size: 1.5rem;
         font-weight: 600;
+        letter-spacing: -0.5px;
     }
 
     .dock-divider {
@@ -1103,10 +1110,15 @@ button {
     .hero-background-overlay {
         background: linear-gradient(
             to bottom,
-            rgba(255, 255, 255, 0.4) 0%,
-            rgba(255, 255, 255, 0.7) 50%,
-            rgba(255, 255, 255, 0.95) 100%
+            rgba(255, 255, 255, 0) 0%,
+            rgba(255, 255, 255, 0.4) 30%,
+            rgba(255, 255, 255, 0.95) 80%,
+            rgba(255, 255, 255, 1) 100%
         );
+    }
+
+    .hero-background img {
+        object-position: center 15%;
     }
 
     .hero-content {
