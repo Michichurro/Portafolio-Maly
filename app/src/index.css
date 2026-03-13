@@ -1147,7 +1147,7 @@ button {
     .hero-content {
         justify-content: flex-end;
         align-items: center;
-        text-align: center;
+        text-align: center !important;
         padding-bottom: 90px;
     }
 
@@ -1159,10 +1159,11 @@ button {
 
     .hero-description {
         font-size: 0.85rem;
-        margin: 0 auto 40px auto;
+        margin: 0 auto 40px auto !important;
         color: #1a1a1a;
         font-weight: 500;
         max-width: 90%;
+        text-align: center !important;
     }
 
     /* Projects mobile */
