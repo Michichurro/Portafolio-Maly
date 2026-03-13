@@ -23,7 +23,7 @@ const Hero = () => {
             {/* Hero Background Image */}
             <div className="hero-background" style={{ overflow: 'hidden' }}>
                 <motion.img
-                    src="/images/arquitecto matias ferreira/IMAGEN SECCION HERO.png"
+                    src="/images/arquitecto matias ferreira/IMAGEN-SECCION-HERO.png"
                     alt="Matias Ferreira"
                     initial={{ scale: 1.1, opacity: 0 }}
                     animate={{ scale: 1, opacity: 1 }}
