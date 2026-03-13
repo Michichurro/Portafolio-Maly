@@ -1061,18 +1061,16 @@ button {
     }
 
     .dock-links {
-        position: fixed;
-        inset: 0;
-        background: rgba(13, 13, 13, 0.97);
-        backdrop-filter: blur(24px);
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        gap: 32px;
-        opacity: 0;
-        visibility: hidden;
-        transition: var(--transition-base);
-        z-index: 999;
+        display: flex;
+        flex-direction: row;
+        gap: 12px;
+        /* Restablecer visibilidad para que aparezca normal como en PC */
+        position: static;
+        background: transparent;
+        backdrop-filter: none;
+        opacity: 1;
+        visibility: visible;
+        z-index: 1;
     }
 
     .dock-links.open {
@@ -1081,17 +1079,18 @@ button {
     }
 
     .dock-logo {
-        font-size: 1.4rem;
+        font-size: 1.2rem;
     }
 
     .dock-links a {
-        font-size: 1.5rem;
-        font-weight: 600;
-        letter-spacing: -0.5px;
+        font-size: 0.85rem;
+        font-weight: 500;
+        letter-spacing: 0px;
     }
 
     .dock-divider {
-        display: none;
+        display: block;
+        height: 20px;
     }
 
     .dock-cta {
@@ -1099,7 +1098,7 @@ button {
     }
 
     .dock-menu-toggle {
-        display: flex;
+        display: none;
     }
 
     /* Hero mobile */
@@ -1118,7 +1117,7 @@ button {
     }
 
     .hero-background img {
-        object-position: center 15%;
+        object-position: 85% 15%;
     }
 
     .hero-content {
