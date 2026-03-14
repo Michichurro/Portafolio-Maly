@@ -168,7 +168,7 @@ const About = () => {
                                     <span className="skill-tag">3ds Max</span>
                                     <span className="skill-tag">SketchUp</span>
                                     <span className="skill-tag">D5 Render</span>
-                                    <span className="skill-tag">Corona Renderer</span>
+                                    <span className="skill-tag">Corona Render</span>
                                     <span className="skill-tag">Adobe Photoshop</span>
                                     <span className="skill-tag">Adobe Illustrator</span>
                                     <span className="skill-tag">Unreal Engine</span>
