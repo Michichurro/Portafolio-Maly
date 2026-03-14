@@ -143,17 +143,38 @@ const About = () => {
                                 <h3 className="resume-category-title">Cursos y Especializaciones</h3>
                                 <div className="resume-list">
                                     <div className="resume-item">
-                                        <div className="resume-item-year">2023</div>
+                                        <div className="resume-item-year">2026</div>
                                         <div className="resume-item-content">
-                                            <h4>Desarrollo Inmobiliario Avanzado</h4>
-                                            <p>Asociación de Desarrolladores Inmobiliarios. Especialización en análisis financiero y factibilidad de proyectos urbanos.</p>
+                                            <h4>Especialización en Proyectos BIM</h4>
+                                            <p>CAD IT</p>
                                         </div>
                                     </div>
                                     <div className="resume-item">
-                                        <div className="resume-item-year">2021</div>
+                                        <div className="resume-item-year">2026</div>
                                         <div className="resume-item-content">
-                                            <h4>Renderizado Fotorealista y Modelado 3D</h4>
-                                            <p>Academia Placeholder. Experto en V-Ray, Corona Renderer, y 3ds Max.</p>
+                                            <h4>Elaboración y Evaluación de Proyectos de Inversiones</h4>
+                                            <p>PwC Academy</p>
+                                        </div>
+                                    </div>
+                                    <div className="resume-item">
+                                        <div className="resume-item-year">2025</div>
+                                        <div className="resume-item-content">
+                                            <h4>Relaciones Humanas, Comunicación Eficaz y Liderazgo</h4>
+                                            <p>Dale Carnegie Training</p>
+                                        </div>
+                                    </div>
+                                    <div className="resume-item">
+                                        <div className="resume-item-year">2023</div>
+                                        <div className="resume-item-content">
+                                            <h4>Project Management</h4>
+                                            <p>Coursera</p>
+                                        </div>
+                                    </div>
+                                    <div className="resume-item">
+                                        <div className="resume-item-year">2019</div>
+                                        <div className="resume-item-content">
+                                            <h4>Modelado Revit Arquitectura Medio Avanzado</h4>
+                                            <p>Ditalento</p>
                                         </div>
                                     </div>
                                 </div>
