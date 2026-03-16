@@ -65,7 +65,7 @@ const Hero = () => {
                     </motion.h2>
 
                     {/* Description / Value Proposition */}
-                    <motion.p className="hero-description" variants={item}>
+                    <motion.p className="hero-description" variants={item} style={{ color: '#0d0d0d' }}>
                         Arquitecto con +8 años de experiencia <br className="hide-desktop" /> diseñando espacios que combinan <br className="hide-desktop" /> visión, funcionalidad y valor.
                     </motion.p>
                 </motion.div>
