@@ -63,7 +63,7 @@ const Contact = () => {
                         </a>
 
                         <span className="footer-label" style={{ marginTop: '24px' }}>Email</span>
-                        <a href="mailto:maje.ferreiraq@gmail.com" className="footer-value">
+                        <a href="mailto:maje.ferreiraq@gmail.com" className="footer-value" style={{textDecoration: 'underline'}}>
                             maje.ferreiraq@gmail.com
                         </a>
                     </div>
@@ -72,6 +72,11 @@ const Contact = () => {
                         <span className="footer-label">LinkedIn</span>
                         <a href="https://www.linkedin.com/in/matiferreq?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noopener noreferrer" className="footer-value">
                             Matias Ferreira
+                        </a>
+                        
+                        <span className="footer-label" style={{ marginTop: '24px' }}>Instagram</span>
+                        <a href="https://instagram.com/dhome_interiores" target="_blank" rel="noopener noreferrer" className="footer-value">
+                            @dhome_interiores
                         </a>
                     </div>
                 </div>
