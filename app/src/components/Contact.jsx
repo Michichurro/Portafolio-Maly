@@ -75,8 +75,8 @@ const Contact = () => {
                         </a>
                         
                         <span className="footer-label" style={{ marginTop: '24px' }}>Instagram</span>
-                        <a href="https://instagram.com/dhome_interiores" target="_blank" rel="noopener noreferrer" className="footer-value">
-                            @dhome_interiores
+                        <a href="https://www.instagram.com/matiferreq/" target="_blank" rel="noopener noreferrer" className="footer-value">
+                            @matiferreq
                         </a>
                     </div>
                 </div>
