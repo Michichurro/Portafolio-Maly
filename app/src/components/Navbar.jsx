@@ -26,7 +26,7 @@ const Navbar = () => {
             transition={{ duration: 0.8, delay: 0.5, ease: [0.25, 0.46, 0.45, 0.94] }}
         >
             <a href="#inicio" className="dock-logo" onClick={(e) => handleLinkClick(e, '#inicio')}>
-                MF<span>.</span>
+                MG<span>.</span>
             </a>
 
             <div className="dock-divider" />

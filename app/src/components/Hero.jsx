@@ -22,13 +22,13 @@ const Hero = () => {
         <section className="hero" id="inicio">
             {/* Hero Background Image */}
             <div className="hero-background" style={{ overflow: 'hidden' }}>
-                <motion.img
-                    src="/images/arquitecto matias ferreira/IMAGEN-SECCION-HERO.png"
-                    alt="Matias Ferreira"
-                    initial={{ scale: 1.1, opacity: 0 }}
-                    animate={{ scale: 1, opacity: 1 }}
-                    transition={{ duration: 1.5, ease: [0.16, 1, 0.3, 1] }}
-                />
+                    <motion.img
+                        src="/images/maly-hero.png"
+                        alt="Maly Gomez"
+                        initial={{ scale: 1.1, opacity: 0 }}
+                        animate={{ scale: 1, opacity: 1 }}
+                        transition={{ duration: 1.5, ease: [0.16, 1, 0.3, 1] }}
+                    />
                 <motion.div 
                     className="hero-background-overlay" 
                     initial={{ opacity: 0 }}
@@ -46,8 +46,8 @@ const Hero = () => {
                 >
                     {/* Title */}
                     <motion.h1 variants={item}>
-                        Matías<br className="hide-mobile" />
-                        <span className="serif-italic" style={{ color: '#0d0d0d' }}> Ferreira</span>
+                        Maly<br className="hide-mobile" />
+                        <span className="serif-italic" style={{ color: '#0d0d0d' }}> Gomez</span>
                     </motion.h1>
 
                     {/* Subtitle */}
@@ -61,12 +61,12 @@ const Hero = () => {
                             maxWidth: '500px'
                         }}
                     >
-                        Desarrollo estratégico <br className="hide-desktop" /> para proyectos inmobiliarios.
+                        Estratega & Planificadora <br className="hide-desktop" /> de Medios Senior
                     </motion.h2>
 
                     {/* Description / Value Proposition */}
                     <motion.p className="hero-description" variants={item} style={{ color: '#0d0d0d' }}>
-                        Arquitecto con +8 años de experiencia <br className="hide-desktop" /> diseñando espacios que combinan <br className="hide-desktop" /> visión, funcionalidad y valor.
+                        PR y Marketing con experiencia <br className="hide-desktop" /> diseñando campañas que combinan <br className="hide-desktop" /> estrategia, alcance e impacto.
                     </motion.p>
                 </motion.div>
             </div>

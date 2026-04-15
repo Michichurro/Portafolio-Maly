@@ -27,8 +27,8 @@ const About = () => {
                         </motion.div>
                         <div className="resume-image-wrapper">
                             <img 
-                                src="/images/arquitecto matias ferreira/WhatsApp Image 2026-03-03 at 3.50.01 PM.jpeg" 
-                                alt="Matias Ferreira"
+                                src="/images/maly-about.png" 
+                                alt="Maly Gomez"
                             />
                         </div>
                     </motion.div>
@@ -46,12 +46,12 @@ const About = () => {
                             <div className="resume-category">
                                 <h3 className="resume-category-title">Habilidades</h3>
                                 <div className="skills-grid" style={{ marginBottom: '2rem' }}>
-                                    <span className="skill-tag">Proyectista Arq.</span>
-                                    <span className="skill-tag">Análisis de Desarrollos Inmobiliarios</span>
-                                    <span className="skill-tag">Modelador 3D</span>
-                                    <span className="skill-tag">Modelador BIM</span>
-                                    <span className="skill-tag">Rendering</span>
-                                    <span className="skill-tag">Liderazgo</span>
+                                    <span className="skill-tag">Estrategia & Medios</span>
+                                    <span className="skill-tag">PR & Comunicación</span>
+                                    <span className="skill-tag">Gestión de Cuentas</span>
+                                    <span className="skill-tag">Data & Tools</span>
+                                    <span className="skill-tag">Planificación ON/OFF</span>
+                                    <span className="skill-tag">Negociación</span>
                                 </div>
                             </div>
 
@@ -60,53 +60,30 @@ const About = () => {
                                 <h3 className="resume-category-title">Experiencia</h3>
                                 <div className="resume-list">
                                     <div className="resume-item">
-                                        <div className="resume-item-year">2020 — Act.</div>
+                                        <div className="resume-item-year">2022 — 2024</div>
                                         <div className="resume-item-content">
-                                            <h4>Building Innovations SA</h4>
-                                            <p><strong>Gerente del Área de "Nuevos Proyectos"</strong><br/>
-                                            Gerencia - Proyectista - Analista - Modelador 3D - Rendering</p>
+                                            <h4>Brick</h4>
+                                            <p><strong>Ejecutiva y Coordinadora de Medios</strong><br/>
+                                            Planificación de campañas, negociación de espacios, manejo de presupuesto.</p>
                                         </div>
                                     </div>
                                     <div className="resume-item">
-                                        <div className="resume-item-year">-</div>
+                                        <div className="resume-item-year">2022</div>
                                         <div className="resume-item-content">
-                                            <h4>Independiente</h4>
-                                            <p>Proyectista - Analista - Modelador BIM / 3D - Rendering</p>
+                                            <h4>Bierdermann</h4>
+                                            <p><strong>Planificadora de Medios</strong><br/>
+                                            Gestión estratégica de medios y campañas para diferentes cuentas.</p>
                                         </div>
                                     </div>
                                     <div className="resume-item">
-                                        <div className="resume-item-year">2019</div>
+                                        <div className="resume-item-year">2018 — 2021</div>
                                         <div className="resume-item-content">
-                                            <h4>BIAU 2019</h4>
-                                            <p><strong>Participante Expositor</strong><br/>
-                                            Área Académica - Proyecto Tecmodule<br/>
-                                            Pabellón del Paraguay - Construcción</p>
+                                            <h4>Nasta</h4>
+                                            <p><strong>Asistente y Ejecutiva de Medios</strong><br/>
+                                            Armado de estrategias, gestión de cuentas como Tigo, Claro, NGO.</p>
                                         </div>
                                     </div>
-                                    <div className="resume-item">
-                                        <div className="resume-item-year">2019</div>
-                                        <div className="resume-item-content">
-                                            <h4>Biocons Arquitectura</h4>
-                                            <p><strong>Proyectista</strong><br/>
-                                            Proyectista - Modelador 2D - Modelador 3D - Rendering</p>
-                                        </div>
-                                    </div>
-                                    <div className="resume-item">
-                                        <div className="resume-item-year">2018</div>
-                                        <div className="resume-item-content">
-                                            <h4>Concurso FADA</h4>
-                                            <p><strong>Proyectista</strong><br/>
-                                            Colaborador del equipo de trabajo con los arquitectos Nicolás Morales y Pablo Barbadillo</p>
-                                        </div>
-                                    </div>
-                                    <div className="resume-item">
-                                        <div className="resume-item-year">2018</div>
-                                        <div className="resume-item-content">
-                                            <h4>Lujan Construcciones</h4>
-                                            <p><strong>Proyectista</strong><br/>
-                                            Modelador 2D - Modelador 3D - Rendering</p>
-                                        </div>
-                                    </div>
+
                                 </div>
                             </div>
 
@@ -115,84 +92,67 @@ const About = () => {
                                 <h3 className="resume-category-title">Educación</h3>
                                 <div className="resume-list">
                                     <div className="resume-item">
-                                        <div className="resume-item-year">2023</div>
+                                        <div className="resume-item-year">Superior</div>
                                         <div className="resume-item-content">
-                                            <h4>Master</h4>
-                                            <p>Campus Politécnico Nuevas Tecnologías - Madrid<br/><strong>Master en Visualización Arquitectónica 3D</strong></p>
-                                        </div>
-                                    </div>
-                                    <div className="resume-item">
-                                        <div className="resume-item-year">2016 — 2022</div>
-                                        <div className="resume-item-content">
-                                            <h4>Educación Superior</h4>
-                                            <p>Universidad Nacional de Asunción<br/>Facultad de Arquitectura, Diseño y Arte - <strong>Arquitectura</strong></p>
-                                        </div>
-                                    </div>
-                                    <div className="resume-item">
-                                        <div className="resume-item-year">2013 — 2015</div>
-                                        <div className="resume-item-content">
-                                            <h4>Educación Técnica / Media</h4>
-                                            <p>Escuela Nacional de Comercio Nº 2<br/><strong>Bachillerato Técnico en Administración de Negocios</strong></p>
+                                            <h4>Marketing y Publicidad</h4>
+                                            <p>Universidad Columbia<br/><strong>Licenciatura en Marketing y Publicidad</strong></p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            {/* Cursos */}
                             <div className="resume-category">
-                                <h3 className="resume-category-title">Cursos y Especializaciones</h3>
+                                <h3 className="resume-category-title">Herramientas</h3>
+                                <div className="skills-grid">
+                                    <span className="skill-tag">IBOPE</span>
+                                    <span className="skill-tag">TGI</span>
+                                    <span className="skill-tag">Audimedia</span>
+                                    <span className="skill-tag">Influencity</span>
+                                    <span className="skill-tag">Google Docs</span>
+                                    <span className="skill-tag">Excel Avanzado</span>
+                                </div>
+                            </div>
+
+                            {/* Referencias */}
+                            <div className="resume-category">
+                                <h3 className="resume-category-title">Referencias Laborales</h3>
                                 <div className="resume-list">
                                     <div className="resume-item">
-                                        <div className="resume-item-year">2026</div>
+                                        <div className="resume-item-year">
+                                            <a href="https://wa.me/595981140391" target="_blank" rel="noopener noreferrer" style={{color: 'inherit', textDecoration: 'underline'}}>+595 981 140391</a>
+                                        </div>
                                         <div className="resume-item-content">
-                                            <h4>Especialización en Proyectos BIM</h4>
-                                            <p>CAD IT</p>
+                                            <h4>Federico Céspedes</h4>
+                                            <p><strong>Director de Medios</strong><br/>Oniria</p>
                                         </div>
                                     </div>
                                     <div className="resume-item">
-                                        <div className="resume-item-year">2026</div>
+                                        <div className="resume-item-year">
+                                            <a href="https://wa.me/59599462980" target="_blank" rel="noopener noreferrer" style={{color: 'inherit', textDecoration: 'underline'}}>+595 994 62980</a>
+                                        </div>
                                         <div className="resume-item-content">
-                                            <h4>Elaboración y Evaluación de Proyectos de Inversiones</h4>
-                                            <p>PwC Academy</p>
+                                            <h4>Oscar González</h4>
+                                            <p><strong>Coordinador Digital</strong><br/>Oniria</p>
                                         </div>
                                     </div>
                                     <div className="resume-item">
-                                        <div className="resume-item-year">2025</div>
+                                        <div className="resume-item-year">
+                                            <a href="https://wa.me/595961526964" target="_blank" rel="noopener noreferrer" style={{color: 'inherit', textDecoration: 'underline'}}>+595 961 526964</a>
+                                        </div>
                                         <div className="resume-item-content">
-                                            <h4>Relaciones Humanas, Comunicación Eficaz y Liderazgo</h4>
-                                            <p>Dale Carnegie Training</p>
+                                            <h4>Fernando López</h4>
+                                            <p><strong>Coordinador Digital</strong><br/>Brick</p>
                                         </div>
                                     </div>
                                     <div className="resume-item">
-                                        <div className="resume-item-year">2023</div>
+                                        <div className="resume-item-year">
+                                            <a href="https://wa.me/595972131975" target="_blank" rel="noopener noreferrer" style={{color: 'inherit', textDecoration: 'underline'}}>+595 972 131975</a>
+                                        </div>
                                         <div className="resume-item-content">
-                                            <h4>Project Management</h4>
-                                            <p>Coursera</p>
+                                            <h4>Jackeline Aquino</h4>
+                                            <p><strong>Coordinadora de Medios</strong><br/>Brick</p>
                                         </div>
                                     </div>
-                                    <div className="resume-item">
-                                        <div className="resume-item-year">2019</div>
-                                        <div className="resume-item-content">
-                                            <h4>Modelado Revit Arquitectura Medio Avanzado</h4>
-                                            <p>Ditalento</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            {/* Habilidades */}
-                            <div className="resume-category">
-                                <h3 className="resume-category-title">Software</h3>
-                                <div className="skills-grid">
-                                    <span className="skill-tag">Autodesk Revit</span>
-                                    <span className="skill-tag">AutoCAD</span>
-                                    <span className="skill-tag">3ds Max</span>
-                                    <span className="skill-tag">SketchUp</span>
-                                    <span className="skill-tag">D5 Render</span>
-                                    <span className="skill-tag">Corona Render</span>
-                                    <span className="skill-tag">Adobe Photoshop</span>
-                                    <span className="skill-tag">Adobe Illustrator</span>
-                                    <span className="skill-tag">Unreal Engine</span>
                                 </div>
                             </div>
 
