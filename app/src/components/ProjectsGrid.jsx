@@ -27,8 +27,8 @@ const ProjectsGrid = () => {
                         <span className="serif-italic accent-text">Destacados</span>
                     </h2>
                     <p>
-                        Una selección de proyectos donde la arquitectura, el diseño y
-                        la innovación se encuentran para crear espacios memorables.
+                        Una selección de proyectos donde la estrategia innovadora en medios 
+                        y un enfoque en resultados se encuentran para crear espacios memorables para las marcas.
                     </p>
                 </motion.div>
 
