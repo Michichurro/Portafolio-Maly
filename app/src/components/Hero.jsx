@@ -66,7 +66,7 @@ const Hero = () => {
 
                     {/* Description / Value Proposition */}
                     <motion.p className="hero-description" variants={item} style={{ color: '#0d0d0d' }}>
-                        PR y Marketing con experiencia <br className="hide-desktop" /> diseñando campañas que combinan <br className="hide-desktop" /> estrategia, alcance e impacto.
+                        PR y Marketing con +8 años de experiencia <br className="hide-desktop" /> diseñando campañas que combinan <br className="hide-desktop" /> estrategia, alcance e impacto.
                     </motion.p>
                 </motion.div>
             </div>
