@@ -60,30 +60,56 @@ const About = () => {
                                 <h3 className="resume-category-title">Experiencia</h3>
                                 <div className="resume-list">
                                     <div className="resume-item">
-                                        <div className="resume-item-year">2022 — 2024</div>
+                                        <div className="resume-item-year">Feb 2025 – Mar 2026</div>
+                                        <div className="resume-item-content">
+                                            <h4>Oniria</h4>
+                                            <ul style={{ listStyleType: 'disc', paddingLeft: '20px', color: 'var(--text-light-secondary)', lineHeight: '1.6', fontSize: '1rem', display: 'flex', flexDirection: 'column', gap: '6px' }}>
+                                                <li>Lideré el área de medios dentro de campañas integrales</li>
+                                                <li>Trabajé de cerca con cuentas y creatividad para bajar ideas a planes concretos</li>
+                                                <li>Coordiné con equipos internos para que todo salga en tiempo y forma</li>
+                                                <li>Ejecuté y di seguimiento a campañas multicanal</li>
+                                                <li>Analicé resultados y fui optimizando las campañas</li>
+                                                <li>Acompañé en la bajada de propuestas y armado de estrategias</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div className="resume-item">
+                                        <div className="resume-item-year">Jun 2022 – Jul 2024</div>
                                         <div className="resume-item-content">
                                             <h4>Brick</h4>
-                                            <p><strong>Ejecutiva y Coordinadora de Medios</strong><br/>
-                                            Planificación de campañas, negociación de espacios, manejo de presupuesto.</p>
+                                            <ul style={{ listStyleType: 'disc', paddingLeft: '20px', color: 'var(--text-light-secondary)', lineHeight: '1.6', fontSize: '1rem', display: 'flex', flexDirection: 'column', gap: '6px' }}>
+                                                <li>Gestioné cuentas como Tigo, Claro, NGO, Banco Familiar y González Giménez</li>
+                                                <li>Armé y ejecuté planes de medios offline según objetivos de campaña</li>
+                                                <li>Negocié espacios y manejé presupuestos</li>
+                                                <li>Hice seguimiento de campañas y análisis de competencia</li>
+                                                <li>Trabajé con equipos internos para asegurar la implementación de las campañas</li>
+                                            </ul>
                                         </div>
                                     </div>
                                     <div className="resume-item">
-                                        <div className="resume-item-year">2022</div>
+                                        <div className="resume-item-year">Ene a Jun 2022</div>
                                         <div className="resume-item-content">
                                             <h4>Bierdermann</h4>
-                                            <p><strong>Planificadora de Medios</strong><br/>
-                                            Gestión estratégica de medios y campañas para diferentes cuentas.</p>
+                                            <ul style={{ listStyleType: 'disc', paddingLeft: '20px', color: 'var(--text-light-secondary)', lineHeight: '1.6', fontSize: '1rem', display: 'flex', flexDirection: 'column', gap: '6px' }}>
+                                                <li>Desarrollé estrategias de medios offline</li>
+                                                <li>Di seguimiento a campañas y optimización de resultados</li>
+                                                <li>Acompañé en la planificación y ejecución de campañas</li>
+                                            </ul>
                                         </div>
                                     </div>
                                     <div className="resume-item">
-                                        <div className="resume-item-year">2018 — 2021</div>
+                                        <div className="resume-item-year">Ene 2018 – Ago 2021</div>
                                         <div className="resume-item-content">
                                             <h4>Nasta</h4>
-                                            <p><strong>Asistente y Ejecutiva de Medios</strong><br/>
-                                            Armado de estrategias, gestión de cuentas como Tigo, Claro, NGO.</p>
+                                            <ul style={{ listStyleType: 'disc', paddingLeft: '20px', color: 'var(--text-light-secondary)', lineHeight: '1.6', fontSize: '1rem', display: 'flex', flexDirection: 'column', gap: '6px' }}>
+                                                <li>Fui creciendo de asistente a ejecutiva dentro del equipo de medios</li>
+                                                <li>Participé en el armado de estrategias para cuentas como Tigo</li>
+                                                <li>Analicé audiencias y planifiqué campañas</li>
+                                                <li>Ejecuté pautas y armé reportes de performance</li>
+                                                <li>Trabajé con herramientas como IBOPE y TGI</li>
+                                            </ul>
                                         </div>
                                     </div>
-
                                 </div>
                             </div>
 
