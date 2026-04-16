@@ -1,66 +1,109 @@
 export const projects = [
   {
     id: 1,
-    title: "Campaña Tigo - Conectividad Total",
-    category: "Planificación de Medios",
-    description: "Planificación de campaña integral (ON/OFF) para Tigo. Gestión de pautas y seguimiento de performance.",
-    technologies: ["Estrategia multicanal", "IBOPE", "Reportes de Performance"],
-    image: "https://via.placeholder.com/800x600.png?text=Tigo+Campa%C3%B1a",
+    title: "Distrito Perseverancia",
+    category: "PR & Amplificación",
+    description: "Para el lanzamiento de Distrito Perseverancia, desarrollamos una estrategia de amplificación enfocada en medios clave para un público de alto poder adquisitivo, combinando referentes del nicho como Level, High Class y Chic, junto a medios masivos como ABC y Última Hora para asegurar alcance y relevancia.\n\nComo parte del lanzamiento, incorporamos a las radios no solo como canales de difusión, sino como aliados estratégicos en la generación de contenido. Post lanzamiento, activamos sus instalaciones como espacios de experiencia, potenciando su rol a través de sus plataformas digitales y redes sociales.",
+    technologies: ["Estrategia de Amplificación", "Medios de Nicho", "Experiencia"],
+    image: "https://via.placeholder.com/800x600.png?text=Distrito+Perseverancia",
     gallery: [
-      "https://via.placeholder.com/800x600.png?text=Tigo+Pauta+1",
-      "https://via.placeholder.com/800x600.png?text=Tigo+Pauta+2"
+      "https://via.placeholder.com/800x600.png?text=Distrito+Perseverancia"
     ],
     link: "#"
   },
   {
     id: 2,
-    title: "Claro - Lanzamiento 5G",
-    category: "Gestión de Cuentas",
-    description: "Coordinación y manejo de pauta publicitaria para el lanzamiento de la nueva red 5G, negociando espacios clave y analizando KPIs.",
-    technologies: ["Negociación", "Audimedia", "Análisis de Competencia"],
-    image: "https://via.placeholder.com/800x600.png?text=Claro+Lanzamiento",
+    title: "Shell - Volvimos al Mundial",
+    category: "Estrategia Integral",
+    description: "Desarrollamos una estrategia integrada de medios y PR basada en el momentum del partido y la expectativa por la clasificación.\n\nDesde medios, activamos vía pública con vallados que evolucionaban en tiempo real: “Volveremos” en la previa y “Volvimos” tras la clasificación, acompañando la emoción colectiva. En PR, amplificamos el impacto combinando medios tradicionales con referentes del ecosistema futbolero como Juez Central y Jahuga, sumando páginas de memes para llevar la conversación a un tono más cercano.\n\nEl impacto local escaló a nivel regional en Adlatina, DossierNet y LatinSpots.",
+    technologies: ["OOH en Tiempo Real", "PR", "Influencers"],
+    image: "https://via.placeholder.com/800x600.png?text=Shell",
     gallery: [
-      "https://via.placeholder.com/800x600.png?text=Claro+Evento",
-      "https://via.placeholder.com/800x600.png?text=Claro+V%C3%ADa+P%C3%BAblica"
+      "https://via.placeholder.com/800x600.png?text=Shell"
     ],
     link: "#"
   },
   {
     id: 3,
-    title: "NGO - Renovación de Marca",
-    category: "Estrategia & Medios",
-    description: "Acompañamiento estratégico en el reposicionamiento de NGO. Armado de planes de medios offline y coordinación con la agencia creativa.",
-    technologies: ["Planificación ON/OFF", "Manejo de equipos", "Ejecución de Pautas"],
-    image: "https://via.placeholder.com/800x600.png?text=NGO+Renovaci%C3%B3n",
+    title: "La Tribuna",
+    category: "Planificación de Medios",
+    description: "Para el lanzamiento de La Tribuna, un diario web que llega al formato papel tras 100 años, desarrollamos una estrategia de medios enfocada en posicionamiento sin recurrir a prensa tradicional.\n\nDesde OOH, priorizamos pantallas en puntos de alta circulación en Asunción, Gran Asunción y ciudades clave del interior (CDE, Villarrica, Encarnación) asegurando alcance masivo.\n\nComplementamos con radios de cobertura nacional, con presencia rotativa y amplificación en redes sociales. Logramos instalar la marca en la conversación sin depender de medios propios.",
+    technologies: ["OOH Masivo", "Radio", "Redes Sociales"],
+    image: "https://via.placeholder.com/800x600.png?text=La+Tribuna",
     gallery: [
-      "https://via.placeholder.com/800x600.png?text=NGO+Gr%C3%A1fica",
-      "https://via.placeholder.com/800x600.png?text=NGO+TV"
+      "https://via.placeholder.com/800x600.png?text=La+Tribuna"
     ],
     link: "#"
   },
   {
     id: 4,
-    title: "Banco Familiar - Créditos Pymes",
-    category: "PR & Comunicación",
-    description: "Campaña de Relaciones Públicas e Influencers para posicionar el producto de créditos para pequeñas y medianas empresas.",
-    technologies: ["Gestión de Prensa", "Influencity", "Coordinación PR"],
-    image: "https://via.placeholder.com/800x600.png?text=Banco+Familiar",
+    title: "McDonald's - Golden Car",
+    category: "Innovación & Medios",
+    description: "Ejecutamos la idea a través de una alianza estratégica con un medio, optimizando el presupuesto de la campaña.\n\nEsta colaboración no solo permitió amplificar la acción el día de la promoción, sino también generar free publicity mediante la circulación del móvil por la ciudad durante toda la jornada.\n\nAdemás, esta presencia extendida habilitó nuevas mecánicas de interacción en etapas posteriores, maximizando el alcance y la vida útil de la campaña.",
+    technologies: ["Alianzas Estratégicas", "Free Publicity", "BTL"],
+    image: "https://via.placeholder.com/800x600.png?text=McDonalds+Golden+Car",
     gallery: [
-      "https://via.placeholder.com/800x600.png?text=Banco+Familiar+Influencers",
-      "https://via.placeholder.com/800x600.png?text=Banco+Familiar+Evento"
+      "https://via.placeholder.com/800x600.png?text=McDonalds+Golden+Car"
     ],
     link: "#"
   },
   {
     id: 5,
-    title: "González Giménez - Black Friday",
-    category: "Estrategia & Medios",
-    description: "Despliegue operativo y táctico de pautas offline masivas enfocadas a conversión durante fin de semana promocional.",
-    technologies: ["Presupuestos", "TGI", "Seguimiento ON/OFF"],
-    image: "https://via.placeholder.com/800x600.png?text=Gonz%C3%A1lez+Gim%C3%A9nez",
+    title: "McDonald's - McDelivery FM",
+    category: "Innovación & Medios",
+    description: "Trabajamos en la optimización del espacio de la marca dentro del medio, maximizando su uso más allá de la presencia tradicional.\n\nAprovechando la flexibilidad del formato, transformamos el programa en un espacio 100% alineado al objetivo de la campaña, integrando la dinámica de “pedir una canción” como analogía directa al pedido de productos.\n\nConvertimos el espacio en una plataforma activa de conversión, potenciando su impacto desde el contenido y la interacción con la audiencia.",
+    technologies: ["Integración de Marca", "Innovación Radical", "Conversión"],
+    image: "https://via.placeholder.com/800x600.png?text=McDelivery+FM",
     gallery: [
-      "https://via.placeholder.com/800x600.png?text=Promo+TV",
-      "https://via.placeholder.com/800x600.png?text=Radio"
+      "https://via.placeholder.com/800x600.png?text=McDelivery+FM"
+    ],
+    link: "#"
+  },
+  {
+    id: 6,
+    title: "Pilsen Róga",
+    category: "PR & Comunicación",
+    description: "Trabajamos en conjunto con la agencia de medios en una estrategia de PR que logró una cobertura 360 en menos de 24 horas.\n\nLa campaña se amplificó a través de las redes de los principales medios locales, complementando con presencia en OOH en puntos clave de Asunción, asegurando visibilidad masiva en tiempo récord.",
+    technologies: ["Cobertura 360", "OOH Masivo", "PR en Tiempo Récord"],
+    image: "https://via.placeholder.com/800x600.png?text=Pilsen+R%C3%B3ga",
+    gallery: [
+      "https://via.placeholder.com/800x600.png?text=Pilsen+R%C3%B3ga"
+    ],
+    link: "#"
+  },
+  {
+    id: 7,
+    title: "Deportivo Paraguay - Día de la Amistad",
+    category: "PR & Comunicación",
+    description: "Para la campaña de Deportivo Paraguay (Pilsen), desarrollamos una acción que trascendió fronteras con una activación en Barcelona y amplificación local en Asunción.\n\nDesde PR, conectamos ambos territorios a través de entrevistas en medios como ABC Color y Tigo Sports. La campaña se amplificó en medios internacionales y plataformas del ecosistema futbolero (Juez Central, Pasión Estudio), logrando instalar la historia como símbolo de conexión más allá de las fronteras.",
+    technologies: ["Activación Internacional", "Entrevistas PR", "Plataformas Digitales"],
+    image: "https://via.placeholder.com/800x600.png?text=Deportivo+Paraguay",
+    gallery: [
+      "https://via.placeholder.com/800x600.png?text=Deportivo+Paraguay"
+    ],
+    link: "#"
+  },
+  {
+    id: 8,
+    title: "Ueno - La selección que todos temen",
+    category: "Estrategia en Tiempo Real",
+    description: "Activamos una estrategia de PR en tiempo real tras la clasificación de Paraguay.\n\nAl finalizar el partido, distribuimos el material a TV, radio y prensa para su amplificación inmediata en redes, capitalizando el pico de atención.\n\nAsí, logramos instalar la campaña de forma instantánea en la conversación, maximizando su impacto.",
+    technologies: ["RTM (Real Time Marketing)", "PR Digital", "Distribución Masiva"],
+    image: "https://via.placeholder.com/800x600.png?text=Ueno+Selecci%C3%B3n",
+    gallery: [
+      "https://via.placeholder.com/800x600.png?text=Ueno+Selecci%C3%B3n"
+    ],
+    link: "#"
+  },
+  {
+    id: 9,
+    title: "SENATUR - Hotel del Pueblo",
+    category: "PR & Comunicación",
+    description: "Para Hotel del Pueblo, desarrollamos una estrategia de PR en dos etapas.\n\nEn el lanzamiento, convocamos a medios locales para presentar el proyecto e instalarlo en la agenda. En una segunda fase, ya con la experiencia habilitada, sumamos a creadores de contenido como aliados para mostrar el concepto de “tener todo un pueblo como hotel” y sus distintos paquetes.\n\nAsí, combinamos cobertura informativa y contenido experiencial para amplificar el alcance.",
+    technologies: ["Convocatoria de Medios", "Creadores de Contenido", "Turismo"],
+    image: "https://via.placeholder.com/800x600.png?text=Hotel+del+Pueblo",
+    gallery: [
+      "https://via.placeholder.com/800x600.png?text=Hotel+del+Pueblo"
     ],
     link: "#"
   }
@@ -69,8 +112,10 @@ export const projects = [
 // Categories for filtering
 export const categories = [
   "Todos",
-  "Planificación de Medios",
-  "Estrategia & Medios",
   "PR & Comunicación",
-  "Gestión de Cuentas"
+  "Estrategia Integral",
+  "Planificación de Medios",
+  "PR & Amplificación",
+  "Innovación & Medios",
+  "Estrategia en Tiempo Real"
 ];
