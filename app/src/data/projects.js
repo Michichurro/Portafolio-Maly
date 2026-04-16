@@ -21,9 +21,9 @@ export const projects = [
     category: "Estrategia Integral",
     description: "Desarrollamos una estrategia integrada de medios y PR basada en el momentum del partido y la expectativa por la clasificación.\n\nDesde medios, activamos vía pública con vallados que evolucionaban en tiempo real: “Volveremos” en la previa y “Volvimos” tras la clasificación, acompañando la emoción colectiva. En PR, amplificamos el impacto combinando medios tradicionales con referentes del ecosistema futbolero como Juez Central y Jahuga, sumando páginas de memes para llevar la conversación a un tono más cercano.\n\nEl impacto local escaló a nivel regional en Adlatina, DossierNet y LatinSpots.",
     technologies: ["OOH en Tiempo Real", "PR", "Influencers"],
-    image: "https://via.placeholder.com/800x600.png?text=Shell",
+    image: "/images/projects/maly/anexos/whatsapp-image-2026-04-15-at-6.26.10-pm.jpg",
     gallery: [
-      "https://via.placeholder.com/800x600.png?text=Shell"
+      "/images/projects/maly/anexos/whatsapp-image-2026-04-15-at-6.26.10-pm.jpg"
     ],
     link: "#"
   },
@@ -33,9 +33,9 @@ export const projects = [
     category: "Planificación de Medios",
     description: "Para el lanzamiento de La Tribuna, un diario web que llega al formato papel tras 100 años, desarrollamos una estrategia de medios enfocada en posicionamiento sin recurrir a prensa tradicional.\n\nDesde OOH, priorizamos pantallas en puntos de alta circulación en Asunción, Gran Asunción y ciudades clave del interior (CDE, Villarrica, Encarnación) asegurando alcance masivo.\n\nComplementamos con radios de cobertura nacional, con presencia rotativa y amplificación en redes sociales. Logramos instalar la marca en la conversación sin depender de medios propios.",
     technologies: ["OOH Masivo", "Radio", "Redes Sociales"],
-    image: "https://via.placeholder.com/800x600.png?text=La+Tribuna",
+    image: "/images/projects/maly/anexos/whatsapp-image-2026-04-15-at-6.26.11-pm.jpg",
     gallery: [
-      "https://via.placeholder.com/800x600.png?text=La+Tribuna"
+      "/images/projects/maly/anexos/whatsapp-image-2026-04-15-at-6.26.11-pm.jpg"
     ],
     link: "#"
   },
@@ -75,9 +75,10 @@ export const projects = [
     category: "PR & Comunicación",
     description: "Trabajamos en conjunto con la agencia de medios en una estrategia de PR que logró una cobertura 360 en menos de 24 horas.\n\nLa campaña se amplificó a través de las redes de los principales medios locales, complementando con presencia en OOH en puntos clave de Asunción, asegurando visibilidad masiva en tiempo récord.",
     technologies: ["Cobertura 360", "OOH Masivo", "PR en Tiempo Récord"],
-    image: "https://via.placeholder.com/800x600.png?text=Pilsen+R%C3%B3ga",
+    image: "/images/projects/maly/anexos/muchas-gracias-a-todas-las-marcas-que-hicieron-que-esta-gira-sea-inolvidable-_-pilse.jpg",
     gallery: [
-      "https://via.placeholder.com/800x600.png?text=Pilsen+R%C3%B3ga"
+      "/images/projects/maly/anexos/muchas-gracias-a-todas-las-marcas-que-hicieron-que-esta-gira-sea-inolvidable-_-pilse.jpg",
+      "/images/projects/maly/anexos/-oniria-tbwa-vuelve-a-hacer-historia-en-el-tatakua-2025.la-agencia-liderada-por-camilo-gua.jpg"
     ],
     link: "#"
   },
@@ -87,9 +88,9 @@ export const projects = [
     category: "PR & Comunicación",
     description: "Para la campaña de Deportivo Paraguay (Pilsen), desarrollamos una acción que trascendió fronteras con una activación en Barcelona y amplificación local en Asunción.\n\nDesde PR, conectamos ambos territorios a través de entrevistas en medios como ABC Color y Tigo Sports. La campaña se amplificó en medios internacionales y plataformas del ecosistema futbolero (Juez Central, Pasión Estudio), logrando instalar la historia como símbolo de conexión más allá de las fronteras.",
     technologies: ["Activación Internacional", "Entrevistas PR", "Plataformas Digitales"],
-    image: "https://via.placeholder.com/800x600.png?text=Deportivo+Paraguay",
+    image: "/images/projects/maly/anexos/ningun-mar-en-calma-hizo-experto-a-un-pirata-_que-se-prepare-el-2026.jpg",
     gallery: [
-      "https://via.placeholder.com/800x600.png?text=Deportivo+Paraguay"
+      "/images/projects/maly/anexos/ningun-mar-en-calma-hizo-experto-a-un-pirata-_que-se-prepare-el-2026.jpg"
     ],
     link: "#"
   },
@@ -99,9 +100,10 @@ export const projects = [
     category: "Estrategia en Tiempo Real",
     description: "Activamos una estrategia de PR en tiempo real tras la clasificación de Paraguay.\n\nAl finalizar el partido, distribuimos el material a TV, radio y prensa para su amplificación inmediata en redes, capitalizando el pico de atención.\n\nAsí, logramos instalar la campaña de forma instantánea en la conversación, maximizando su impacto.",
     technologies: ["RTM (Real Time Marketing)", "PR Digital", "Distribución Masiva"],
-    image: "https://via.placeholder.com/800x600.png?text=Ueno+Selecci%C3%B3n",
+    image: "/images/projects/maly/anexos/gran-gallo-de-oro-2025-_mcdonaldspy-gallo-de-oro-audiovisual-_ueno_py-gallo-de-or-1.jpg",
     gallery: [
-      "https://via.placeholder.com/800x600.png?text=Ueno+Selecci%C3%B3n"
+      "/images/projects/maly/anexos/gran-gallo-de-oro-2025-_mcdonaldspy-gallo-de-oro-audiovisual-_ueno_py-gallo-de-or-1.jpg",
+      "/images/projects/maly/anexos/gran-gallo-de-oro-2025-_mcdonaldspy-gallo-de-oro-audiovisual-_ueno_py-gallo-de-or.jpg"
     ],
     link: "#"
   },
