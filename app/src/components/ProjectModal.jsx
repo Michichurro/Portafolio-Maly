@@ -30,16 +30,32 @@ const ProjectModal = ({ project, onClose }) => {
         {/* Gallery with navigation */}
         <div className="modal-gallery">
           <AnimatePresence mode="wait">
-            <motion.img
-              key={currentImage}
-              src={images[currentImage]}
-              alt={`${project.title} - ${currentImage + 1}`}
-              className="modal-image"
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              exit={{ opacity: 0 }}
-              transition={{ duration: 0.3 }}
-            />
+            {images[currentImage]?.endsWith('.mp4') ? (
+              <motion.video
+                key={currentImage}
+                src={images[currentImage]}
+                autoPlay
+                loop
+                muted
+                playsInline
+                className="modal-image"
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                exit={{ opacity: 0 }}
+                transition={{ duration: 0.3 }}
+              />
+            ) : (
+              <motion.img
+                key={currentImage}
+                src={images[currentImage]}
+                alt={`${project.title} - ${currentImage + 1}`}
+                className="modal-image"
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                exit={{ opacity: 0 }}
+                transition={{ duration: 0.3 }}
+              />
+            )}
           </AnimatePresence>
 
           {images.length > 1 && (

@@ -14,12 +14,23 @@ const ProjectCard = ({ project, onClick }) => {
             whileHover={{ y: -4 }}
         >
             <div className="project-card-image-wrapper">
-                <img
-                    src={project.image}
-                    alt={project.title}
-                    className="project-card-image"
-                    loading="lazy"
-                />
+                {project.image?.endsWith('.mp4') ? (
+                    <video
+                        src={project.image}
+                        className="project-card-image"
+                        autoPlay
+                        loop
+                        muted
+                        playsInline
+                    />
+                ) : (
+                    <img
+                        src={project.image}
+                        alt={project.title}
+                        className="project-card-image"
+                        loading="lazy"
+                    />
+                )}
             </div>
             <div className="project-card-info">
                 <div className="project-card-category">{project.category}</div>

@@ -5,9 +5,13 @@ export const projects = [
     category: "PR & Amplificación",
     description: "Para el lanzamiento de Distrito Perseverancia, desarrollamos una estrategia de amplificación enfocada en medios clave para un público de alto poder adquisitivo, combinando referentes del nicho como Level, High Class y Chic, junto a medios masivos como ABC y Última Hora para asegurar alcance y relevancia.\n\nComo parte del lanzamiento, incorporamos a las radios no solo como canales de difusión, sino como aliados estratégicos en la generación de contenido. Post lanzamiento, activamos sus instalaciones como espacios de experiencia, potenciando su rol a través de sus plataformas digitales y redes sociales.",
     technologies: ["Estrategia de Amplificación", "Medios de Nicho", "Experiencia"],
-    image: "https://via.placeholder.com/800x600.png?text=Distrito+Perseverancia",
+    image: "/images/projects/maly/distrito/un-nuevo-polo-nace-en-la-ciudad-bienvenido-distrito-perseverancia.jpg",
     gallery: [
-      "https://via.placeholder.com/800x600.png?text=Distrito+Perseverancia"
+      "/images/projects/maly/distrito/un-nuevo-polo-nace-en-la-ciudad-bienvenido-distrito-perseverancia.jpg",
+      "/images/projects/maly/distrito/-distrito-perseverancia-abre-sus-puertas-a-asuncionun-nuevo-destino-que-invita-a-redescubrir-la.jpg",
+      "/images/projects/maly/distrito/-distrito-perseverancia-abre-sus-puertas-a-asuncionun-nuevo-destino-que-invita-a-redescubrir-la-1.jpg",
+      "/images/projects/maly/distrito/-distrito-perseverancia-abre-sus-puertas-a-asuncionun-nuevo-destino-que-invita-a-redescubrir-la-2.jpg",
+      "/images/projects/maly/distrito/-distrito-perseverancia-abre-sus-puertas-a-asuncionun-nuevo-destino-que-invita-a-redescubrir-la-3.jpg"
     ],
     link: "#"
   },
@@ -41,9 +45,11 @@ export const projects = [
     category: "Innovación & Medios",
     description: "Ejecutamos la idea a través de una alianza estratégica con un medio, optimizando el presupuesto de la campaña.\n\nEsta colaboración no solo permitió amplificar la acción el día de la promoción, sino también generar free publicity mediante la circulación del móvil por la ciudad durante toda la jornada.\n\nAdemás, esta presencia extendida habilitó nuevas mecánicas de interacción en etapas posteriores, maximizando el alcance y la vida útil de la campaña.",
     technologies: ["Alianzas Estratégicas", "Free Publicity", "BTL"],
-    image: "https://via.placeholder.com/800x600.png?text=McDonalds+Golden+Car",
+    image: "/images/projects/maly/mc-donalds/golden-car/board-mcd-golden-car.jpg",
     gallery: [
-      "https://via.placeholder.com/800x600.png?text=McDonalds+Golden+Car"
+      "/images/projects/maly/mc-donalds/golden-car/board-mcd-golden-car.jpg",
+      "/images/projects/maly/mc-donalds/golden-car/caso-mcd-golde-car.mp4",
+      "/images/projects/maly/mc-donalds/golden-car/el-golden-car-salio-recorrio-y-premio-a-los-mclovers-mas-rapidos-convertimos-la-ciudad-en-una.mp4"
     ],
     link: "#"
   },
@@ -53,9 +59,13 @@ export const projects = [
     category: "Innovación & Medios",
     description: "Trabajamos en la optimización del espacio de la marca dentro del medio, maximizando su uso más allá de la presencia tradicional.\n\nAprovechando la flexibilidad del formato, transformamos el programa en un espacio 100% alineado al objetivo de la campaña, integrando la dinámica de “pedir una canción” como analogía directa al pedido de productos.\n\nConvertimos el espacio en una plataforma activa de conversión, potenciando su impacto desde el contenido y la interacción con la audiencia.",
     technologies: ["Integración de Marca", "Innovación Radical", "Conversión"],
-    image: "https://via.placeholder.com/800x600.png?text=McDelivery+FM",
+    image: "/images/projects/maly/mc-donalds/mc-delivery-fm/mcdelivery-fm-espanol.jpg",
     gallery: [
-      "https://via.placeholder.com/800x600.png?text=McDelivery+FM"
+      "/images/projects/maly/mc-donalds/mc-delivery-fm/mcdelivery-fm-espanol.jpg",
+      "/images/projects/maly/mc-donalds/mc-delivery-fm/oniria-tbwa-x-mcdonaldspy-x-rockpopllamas-y-mandas-audios-a-la-radio-para-pedir-que-pasen-tus-.mp4",
+      "/images/projects/maly/mc-donalds/mc-delivery-fm/oniria-tbwa-x-mcdonaldspy-x-rockpopllamas-y-mandas-audios-a-la-radio-para-pedir-que-pasen-tus-.jpg",
+      "/images/projects/maly/mc-donalds/mc-delivery-fm/llego-el-4to-finalista-en-elojofestival-mcdelivery-fm-para-mcdonaldspy-4-finalistas-.jpg",
+      "/images/projects/maly/mc-donalds/mc-delivery-fm/llego-el-4to-finalista-en-elojofestival-mcdelivery-fm-para-mcdonaldspy-4-finalistas-1.jpg"
     ],
     link: "#"
   },
@@ -101,9 +111,10 @@ export const projects = [
     category: "PR & Comunicación",
     description: "Para Hotel del Pueblo, desarrollamos una estrategia de PR en dos etapas.\n\nEn el lanzamiento, convocamos a medios locales para presentar el proyecto e instalarlo en la agenda. En una segunda fase, ya con la experiencia habilitada, sumamos a creadores de contenido como aliados para mostrar el concepto de “tener todo un pueblo como hotel” y sus distintos paquetes.\n\nAsí, combinamos cobertura informativa y contenido experiencial para amplificar el alcance.",
     technologies: ["Convocatoria de Medios", "Creadores de Contenido", "Turismo"],
-    image: "https://via.placeholder.com/800x600.png?text=Hotel+del+Pueblo",
+    image: "/images/projects/maly/hotel-del-pueblo/board-hotel-de-pueblo-diseno-comunicacion.jpg",
     gallery: [
-      "https://via.placeholder.com/800x600.png?text=Hotel+del+Pueblo"
+      "/images/projects/maly/hotel-del-pueblo/board-hotel-de-pueblo-diseno-comunicacion.jpg",
+      "/images/projects/maly/hotel-del-pueblo/conoci-hoteldepueblo_-en-santa-maria-de-fe-misiones-para-mas-informacion-595-981-861553-1.mp4"
     ],
     link: "#"
   }
