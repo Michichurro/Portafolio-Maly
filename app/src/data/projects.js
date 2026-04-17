@@ -64,10 +64,10 @@ export const projects = [
     technologies: ["Integración de Marca", "Innovación Radical", "Conversión"],
     image: "/images/projects/maly/mcdonalds-mcdelivery-fm/cv-malymc-mc-delivery-fm.png",
     gallery: [
-      "/images/projects/maly/mcdonalds-mcdelivery-fm/llego-el-4to-finalista-en-elojofestival-mcdelivery-fm-para-mcdonaldspy-4-finalistas-.jpg",
       "/images/projects/maly/mcdonalds-mcdelivery-fm/mcdelivery-fm-espanol.jpg",
+      "/images/projects/maly/mcdonalds-mcdelivery-fm/oniria-tbwa-x-mcdonaldspy-x-rockpopllamas-y-mandas-audios-a-la-radio-para-pedir-que-pasen-tus-.mp4",
       "/images/projects/maly/mcdonalds-mcdelivery-fm/oniria-tbwa-x-mcdonaldspy-x-rockpopllamas-y-mandas-audios-a-la-radio-para-pedir-que-pasen-tus-.jpg",
-      "/images/projects/maly/mcdonalds-mcdelivery-fm/oniria-tbwa-x-mcdonaldspy-x-rockpopllamas-y-mandas-audios-a-la-radio-para-pedir-que-pasen-tus-.mp4"
+      "/images/projects/maly/mcdonalds-mcdelivery-fm/llego-el-4to-finalista-en-elojofestival-mcdelivery-fm-para-mcdonaldspy-4-finalistas-.jpg"
     ],
     link: "#"
   },
@@ -93,10 +93,10 @@ export const projects = [
     image: "/images/projects/maly/pilsen-deportivo-paraguay-dia-de-la-amistad/cv-malyclub-de-los-amigos.png",
     gallery: [
       "/images/projects/maly/pilsen-deportivo-paraguay-dia-de-la-amistad/board-depor-generico.jpg-1.jpg",
-      "/images/projects/maly/pilsen-deportivo-paraguay-dia-de-la-amistad/un-pais-que-se-siente-incluso-lejos-de-casa-por-el-dia-de-la-indepencia-junto-a-pilsenpy.jpg",
       "/images/projects/maly/pilsen-deportivo-paraguay-dia-de-la-amistad/todo-comienza-en-barcelona-cuando-un-paraguayo-conoce-a-otro-y-ese-a-muchos-mas.-asi-nace-el-d-1.mp4",
       "/images/projects/maly/pilsen-deportivo-paraguay-dia-de-la-amistad/todo-comienza-en-barcelona-cuando-un-paraguayo-conoce-a-otro-y-ese-a-muchos-mas.-asi-nace-el-d-2.mp4",
-      "/images/projects/maly/pilsen-deportivo-paraguay-dia-de-la-amistad/todo-comienza-en-barcelona-cuando-un-paraguayo-conoce-a-otro-y-ese-a-muchos-mas.-asi-nace-el-d.mp4"
+      "/images/projects/maly/pilsen-deportivo-paraguay-dia-de-la-amistad/todo-comienza-en-barcelona-cuando-un-paraguayo-conoce-a-otro-y-ese-a-muchos-mas.-asi-nace-el-d.mp4",
+      "/images/projects/maly/pilsen-deportivo-paraguay-dia-de-la-amistad/un-pais-que-se-siente-incluso-lejos-de-casa-por-el-dia-de-la-indepencia-junto-a-pilsenpy.jpg"
     ],
     link: "#"
   },
