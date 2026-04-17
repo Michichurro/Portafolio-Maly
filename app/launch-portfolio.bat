@@ -1,9 +1,9 @@
 @echo off
-title Portafolio Matias Ferreira Server
+title Portafolio Maly Gomez Server
 cd /d "%~dp0"
 
 echo ==============================================
-echo Iniciando Portafolio de Matias Ferreira...
+echo Iniciando Portafolio de Maly Gomez...
 echo ==============================================
 echo.
 
