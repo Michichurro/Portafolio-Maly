@@ -35,9 +35,7 @@ const ProjectModal = ({ project, onClose }) => {
                 key={currentImage}
                 src={images[currentImage]}
                 autoPlay
-                loop
-                muted
-                playsInline
+                controls
                 className="modal-image"
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}
