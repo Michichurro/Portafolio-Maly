@@ -108,9 +108,9 @@ export const projects = [
     technologies: ["RTM (Real Time Marketing)", "PR Digital", "Distribución Masiva"],
     image: "/images/projects/maly/ueno-la-seleccion-que-todos-temen/cv-malyueno.png",
     gallery: [
+      "/images/projects/maly/ueno-la-seleccion-que-todos-temen/brandvoiceuh-ueno_py-el-banco-oficial-de-la-seleccion-acompana-la-clasificacion-de-la.mp4",
       "/images/projects/maly/ueno-la-seleccion-que-todos-temen/board-ueno-la-seleccion-a-la-que-todos-temen-bloque-mensajes-mgr2.jpg",
-      "/images/projects/maly/ueno-la-seleccion-que-todos-temen/whatsapp-image-2026-04-15-at-7.39.40-pm.jpg",
-      "/images/projects/maly/ueno-la-seleccion-que-todos-temen/brandvoiceuh-ueno_py-el-banco-oficial-de-la-seleccion-acompana-la-clasificacion-de-la.mp4"
+      "/images/projects/maly/ueno-la-seleccion-que-todos-temen/whatsapp-image-2026-04-15-at-7.39.40-pm.jpg"
     ],
     link: "#"
   },
