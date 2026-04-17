@@ -35,10 +35,10 @@ export const projects = [
     technologies: ["OOH Masivo", "Radio", "Redes Sociales"],
     image: "/images/projects/maly/la-tribuna/cv-malyla-tribuna.png",
     gallery: [
-      "/images/projects/maly/la-tribuna/la-tribuna-palabras-bloque-mensajes-graficos-mgr1.-diarios-y-revistas-copy.jpg",
-      "/images/projects/maly/la-tribuna/latribuna-integrada.jpg-1.jpg",
+      "/images/projects/maly/la-tribuna/la-tribuna_sinpalabras-2-1.mp4",
       "/images/projects/maly/la-tribuna/la-tribuna_branding-1.mp4",
-      "/images/projects/maly/la-tribuna/la-tribuna_sinpalabras-2-1.mp4"
+      "/images/projects/maly/la-tribuna/latribuna-integrada.jpg-1.jpg",
+      "/images/projects/maly/la-tribuna/la-tribuna-palabras-bloque-mensajes-graficos-mgr1.-diarios-y-revistas-copy.jpg"
     ],
     link: "#"
   },
