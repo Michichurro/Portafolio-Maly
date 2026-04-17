@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import ProjectsGrid from './components/ProjectsGrid';
+import BrandsMarquee from './components/BrandsMarquee';
 import Contact from './components/Contact';
 
 import About from './components/About';
@@ -13,6 +14,7 @@ function App() {
             <main>
                 <Hero />
                 <ProjectsGrid />
+                <BrandsMarquee />
                 <About />
                 <Contact />
             </main>

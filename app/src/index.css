@@ -1277,3 +1277,80 @@ button {
         justify-content: center;
     }
 }
+
+/* ========================================
+   BRANDS MARQUEE
+   ======================================== */
+.brands-section {
+    padding: 80px 0;
+    background: var(--bg-dark);
+    border-top: 1px solid var(--border-dark);
+    overflow: hidden;
+}
+
+.brands-empty {
+    text-align: center;
+    padding: 40px;
+    border: 1px dashed var(--border-dark);
+    border-radius: var(--radius-lg);
+    color: var(--text-light-secondary);
+}
+
+.brands-empty code {
+    background: var(--bg-dark-card);
+    padding: 4px 8px;
+    border-radius: 4px;
+    color: var(--accent);
+}
+
+.marquee-container {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    /* Gradient mask to fade the edges seamlessly */
+    -webkit-mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+    mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+}
+
+.marquee-content {
+    display: flex;
+    align-items: center;
+    width: max-content;
+    animation: marquee-scroll 40s linear infinite;
+}
+
+.marquee-content:hover {
+    animation-play-state: paused; /* optional pausing on hover */
+}
+
+/* Base wrapper for each logo */
+.brand-logo-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 40px; 
+    opacity: 0.6;
+    transition: var(--transition-base);
+}
+
+.brand-logo-wrapper:hover {
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+.brand-logo {
+    height: 80px; 
+    width: auto;
+    max-width: 250px;
+    object-fit: contain;
+}
+
+@keyframes marquee-scroll {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        /* Loops back after exactly 50% since we multiplied the array by 4 */
+        transform: translateX(-50%);
+    }
+}
